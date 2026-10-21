@@ -1,2 +1,3 @@
 # HTML--Practice
 This is my first practice learning proof. I know it can solely be done by AI but AI can't build my foundations all alone. So at the end of day it is all about coding with help of AI and not just coding by AI.
+The most important part is learning from scratch . If I am doing it from basics why not just build a kind of documentary for me. A perfect beginning might never come but time will surely go away.I know it kind of sounds unprofessional at first but pushing this code into github has a deeper meaning behind it because again I am feeling to wait for perfect time but I am  taking a leap of faith convincing myself that perfect time does not exist. SO cheers to my first learning implementation.
